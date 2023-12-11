@@ -2,7 +2,7 @@
 
 
 
-**How to join? **
+**How to join?**
 
 1. 🙋‍♀️ Create an issue on https://github.com/Tetouan-developers/.github/issues <br>
 2. 👩‍💻 Type your name and your Tetouani neighberhood <br>
