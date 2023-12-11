@@ -2,11 +2,16 @@
 
 
 
-**Here are some ideas to get you started:**
+**How to join**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+1. 🙋‍♀️ Create an issue on https://github.com/Tetouan-developers/.github/issues <br>
+2. 👩‍💻 Type the name of your name and neighberhood <br>
+3. ✴️ And I'll invite you to join. <br>
+4. 🉑 Just accept the request then. <br>
+5. 🖖  Welcome! <br><br>
+
+<a href="https://github.com/sohaibMan/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Tetouan-developers">
+</a>
+
 
